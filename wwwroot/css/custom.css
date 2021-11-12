@@ -1,12 +1,7 @@
-﻿body {
-}
-
-.btn {
-    border: 6px solid #2c3e50;
-    font-family: Helvetica;
+﻿.board button {
+    height: 4em;
+    width: 4em;
+    font-size: x-large;
     font-weight: bold;
-    font-size: 4em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin-bottom: 4px;
 }
